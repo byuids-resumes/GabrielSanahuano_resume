@@ -23,8 +23,6 @@ College Student at Brigham Young University - Idaho
 Computer Programming Certificate
 __Brigham Young University - Idaho__, Rexburg, ID
 
-- Full academic scholarship with 4.0 GPA
-
 `Expected 2022`
 Bachelor of Science in Computer Science
 __Brigham Young University - Idaho__, Rexburg, ID
