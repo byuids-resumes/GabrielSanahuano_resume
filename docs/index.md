@@ -12,6 +12,9 @@ College Student at Brigham Young University - Idaho
 | <a href="https://github.com/Gabrielandres/GabrielSanahuano_resume">GitHub</a>
 </div>
 
+# Contact Information
++1(801)718-6676 - san16047@byui.edu
+
 <!-- https://www.monique.tech/the-art-of-markdown -->
 
 ## Education
@@ -41,7 +44,7 @@ BYUI – Idaho Technology Support
 - Onsite & Remote Technical Support
 - LAN & WAN Connectivity & Maintenance.
 
-`Jul 2020 - Present`
+`Jan 2019 - Mar 2020`
 __Counter Attendant__, Rexburg, ID
 BYUI – Idaho University Food Services
 - Addressed customers’ questions about menu items in a professional and informed manner.
@@ -60,6 +63,14 @@ The Church of Jesus Christ of Latter-day Saints.
 - Prepared and taught weekly training meetings for fellow volunteers in order to promote efficiency within the group.
 - Team building development and ensured that the goals and values of the mission were fulfilled.
 
+`Jan 2011 - Present`
+__Genealogist, Indexer, and Reviewer__
+Family Search
+- Volunteered to make valuable genealogical records freely searchable online.
+- Extraction work of names, dates, and other records for Spain, Colombia, and Ecuador.
+- Helped to index 8,371 genealogical records.
+- Helped to review 4,146 indexed records.
+- Searched out and found over 900 genealogical records to compile information for my family tree.
 
 
 
